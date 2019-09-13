@@ -1,2 +1,2 @@
-# journal
-update from the last job
+# Journal
+A journal website for research papers
